@@ -1,0 +1,36 @@
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.csproj.AssemblyReference.cache
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.AssemblyInfoInputs.cache
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.AssemblyInfo.cs
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.csproj.CoreCompileInputs.cache
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.sourcelink.json
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/bin/Debug/net8.0/OOPSinavdaCikti
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/bin/Debug/net8.0/OOPSinavdaCikti.deps.json
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/bin/Debug/net8.0/OOPSinavdaCikti.runtimeconfig.json
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/bin/Debug/net8.0/OOPSinavdaCikti.dll
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/bin/Debug/net8.0/OOPSinavdaCikti.pdb
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/bin/Debug/net8.0/Spectre.Console.dll
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinav.F42C8276.Up2Date
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.dll
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/refint/OOPSinavdaCikti.dll
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.pdb
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.genruntimeconfig.cache
+/Users/fatmagulfidan/Desktop/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/ref/OOPSinavdaCikti.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/bin/Debug/net8.0/OOPSinavdaCikti
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/bin/Debug/net8.0/OOPSinavdaCikti.deps.json
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/bin/Debug/net8.0/OOPSinavdaCikti.runtimeconfig.json
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/bin/Debug/net8.0/OOPSinavdaCikti.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/bin/Debug/net8.0/OOPSinavdaCikti.pdb
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/bin/Debug/net8.0/Spectre.Console.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.csproj.AssemblyReference.cache
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.AssemblyInfoInputs.cache
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.AssemblyInfo.cs
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.csproj.CoreCompileInputs.cache
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.sourcelink.json
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinav.F42C8276.Up2Date
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/refint/OOPSinavdaCikti.dll
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.pdb
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/OOPSinavdaCikti.genruntimeconfig.cache
+/Users/fatmagulfidan/Desktop/LB 1 OOP/OOPSinavdaCikti/OOPSinavdaCikti/obj/Debug/net8.0/ref/OOPSinavdaCikti.dll
