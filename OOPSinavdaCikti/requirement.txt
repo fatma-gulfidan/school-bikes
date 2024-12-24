@@ -1,0 +1,2 @@
+flask==1.0.2  # Eski bir versiyon
+requests==2.22.0
