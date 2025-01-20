@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Xjeg6isIdmc=",
+  "dgSpecHash": "pfa840IGeGY=",
   "success": true,
   "projectFilePath": "/Users/fatmagulfidan/Desktop/school-bikes-copy/school-bikes/school-bikes.csproj",
   "expectedPackageFiles": [
@@ -43,7 +43,7 @@
     "/Users/fatmagulfidan/.nuget/packages/system.runtime.serialization.primitives/4.3.0/system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
     "/Users/fatmagulfidan/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
     "/Users/fatmagulfidan/.nuget/packages/system.text.encoding.extensions/4.3.0/system.text.encoding.extensions.4.3.0.nupkg.sha512",
-    "/Users/fatmagulfidan/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512",
+    "/Users/fatmagulfidan/.nuget/packages/system.text.encodings.web/4.5.1/system.text.encodings.web.4.5.1.nupkg.sha512",
     "/Users/fatmagulfidan/.nuget/packages/system.text.regularexpressions/4.3.0/system.text.regularexpressions.4.3.0.nupkg.sha512",
     "/Users/fatmagulfidan/.nuget/packages/system.threading/4.3.0/system.threading.4.3.0.nupkg.sha512",
     "/Users/fatmagulfidan/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
@@ -59,16 +59,6 @@
       "warningLevel": 1,
       "message": "Package 'Newtonsoft.Json' 10.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
       "libraryId": "Newtonsoft.Json",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1904",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Text.Encodings.Web' 4.5.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-ghhp-997w-qr28",
-      "libraryId": "System.Text.Encodings.Web",
       "targetGraphs": [
         "net8.0"
       ]
